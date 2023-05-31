@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "j8o6f6mAxA1ROOwDFn19tohRXr88C4U4CmlFSrZLaANfg3YBozDwkbmWAVfRC+A2WqnYvSdvTE/1WjV9SUyHUA==",
+  "success": true,
+  "projectFilePath": "/Users/rajanbikramsah/Projects/SE-ReservationSystem /SE-ReservationSystem /SE-ReservationSystem .csproj",
+  "expectedPackageFiles": [
+    "/Users/rajanbikramsah/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

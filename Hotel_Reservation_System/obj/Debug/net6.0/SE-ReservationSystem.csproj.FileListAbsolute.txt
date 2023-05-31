@@ -1,0 +1,17 @@
+/Users/rajanbikramsah/Projects/SE-ReservationSystem /SE-ReservationSystem /obj/Debug/net6.0/SE-ReservationSystem .csproj.AssemblyReference.cache
+/Users/rajanbikramsah/Projects/SE-ReservationSystem /SE-ReservationSystem /obj/Debug/net6.0/SE-ReservationSystem .GeneratedMSBuildEditorConfig.editorconfig
+/Users/rajanbikramsah/Projects/SE-ReservationSystem /SE-ReservationSystem /obj/Debug/net6.0/SE-ReservationSystem .AssemblyInfoInputs.cache
+/Users/rajanbikramsah/Projects/SE-ReservationSystem /SE-ReservationSystem /obj/Debug/net6.0/SE-ReservationSystem .AssemblyInfo.cs
+/Users/rajanbikramsah/Projects/SE-ReservationSystem /SE-ReservationSystem /obj/Debug/net6.0/SE-ReservationSystem .csproj.CoreCompileInputs.cache
+/Users/rajanbikramsah/Projects/SE-ReservationSystem /SE-ReservationSystem /bin/Debug/net6.0/SE-ReservationSystem 
+/Users/rajanbikramsah/Projects/SE-ReservationSystem /SE-ReservationSystem /bin/Debug/net6.0/SE-ReservationSystem .deps.json
+/Users/rajanbikramsah/Projects/SE-ReservationSystem /SE-ReservationSystem /bin/Debug/net6.0/SE-ReservationSystem .runtimeconfig.json
+/Users/rajanbikramsah/Projects/SE-ReservationSystem /SE-ReservationSystem /bin/Debug/net6.0/SE-ReservationSystem .dll
+/Users/rajanbikramsah/Projects/SE-ReservationSystem /SE-ReservationSystem /bin/Debug/net6.0/SE-ReservationSystem .pdb
+/Users/rajanbikramsah/Projects/SE-ReservationSystem /SE-ReservationSystem /bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/rajanbikramsah/Projects/SE-ReservationSystem /SE-ReservationSystem /obj/Debug/net6.0/SE-ReservationSystem .csproj.CopyComplete
+/Users/rajanbikramsah/Projects/SE-ReservationSystem /SE-ReservationSystem /obj/Debug/net6.0/SE-ReservationSystem .dll
+/Users/rajanbikramsah/Projects/SE-ReservationSystem /SE-ReservationSystem /obj/Debug/net6.0/refint/SE-ReservationSystem .dll
+/Users/rajanbikramsah/Projects/SE-ReservationSystem /SE-ReservationSystem /obj/Debug/net6.0/SE-ReservationSystem .pdb
+/Users/rajanbikramsah/Projects/SE-ReservationSystem /SE-ReservationSystem /obj/Debug/net6.0/SE-ReservationSystem .genruntimeconfig.cache
+/Users/rajanbikramsah/Projects/SE-ReservationSystem /SE-ReservationSystem /obj/Debug/net6.0/ref/SE-ReservationSystem .dll
